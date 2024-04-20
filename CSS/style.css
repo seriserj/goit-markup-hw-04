@@ -215,6 +215,12 @@ margin-top: 30px;
     text-align: center;
     margin-top: 100px;
 }
+.team-section__cards {
+    border-style:solid;
+    border-width: 1px;
+    border-color: #ececec;
+    box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.3);
+}
 /* Footer section style*/
 .footer {
     height: 251px;
