@@ -262,8 +262,9 @@ margin-top: 94px;
     background-color:var(--white);
     
 }
-.team-section__social li:hover .item2 {
+.team-section__social li:hover {
    background-color: var(--blue);
+   fill: var(--white);
 }
 .item2 {
     width: 20px;
