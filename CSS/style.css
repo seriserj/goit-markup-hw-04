@@ -118,7 +118,7 @@ background-image: linear-gradient(
     0deg,
     rgba(47, 48, 58, 0.4),
     rgba(47, 48, 58, 0.4)
-  ), url(/images/ImgBack.jpg)
+  ), url(/images/ImgBack.jpg);
 }
 
 .hero-section__h1 {
