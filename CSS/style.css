@@ -304,20 +304,53 @@ margin-top: 94px;
     background-color: var(--light-black);
 }
 .footer-addres {
-   padding-top: 60px;
-   margin-left: 340px;
-    
+text-align: center;
+padding-top: 60px;
+margin-right: 1100px;
 }
 .footer__addres a {
     text-decoration: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 35px;
-    color: var(--black);     
+    color: var(--light-grey)
 }
 .footer__addres a:hover {
     color: var(--blue);
 }
+.footer-addres__addres {
+    color: var(--white);
+    padding-top: 15px;
+}
+
+
+.item4 {
+    width: 20px;
+    height: 20px;
+}
+.footer-social ul {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.footer-social li {
+    padding: 12px;
+    border-radius: 100px;
+    background-color: var(--black)
+}
+.footer-social li:hover {
+    background-color: var(--blue)
+}
+.footer-social__h4 {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--white);
+    text-align: center;
+}
+
 /* Portfolio style*/
 
 .portfolio__nav {
