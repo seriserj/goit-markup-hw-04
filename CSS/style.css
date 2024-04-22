@@ -114,7 +114,7 @@ body {
 .hero-section {
 background-color: var(--light-black);
 height: 600px;
-background-image: url(/images/back.jpg)
+background-image: url(../images/back.jpg);
 }
 
 .hero-section__h1 {
